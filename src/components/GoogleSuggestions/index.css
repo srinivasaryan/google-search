@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.bg-color {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.google-image {
+  height: 168px;
+  width: 400px;
+  text-align: center;
+  margin-left: 52px;
+}
+.bg-container {
+  background-color: #ffffff;
+  width: 600px;
+  border-radius: 25px;
+  box-shadow: 0px 0px 40px 0px #f3f3f3;
+  padding: 15px;
+}
+.search-icon-size {
+  height: 20px;
+  width: 20px;
+  margin: 14px;
+}
+.input-bar {
+  border: none;
+  outline: none;
+  background-color: #ffffff;
+  width: 600px;
+  color: #000000;
+  font-family: 'Roboto';
+}
+.input-text-container {
+  display: flex;
+}
+.error {
+  text-align: center;
+}
